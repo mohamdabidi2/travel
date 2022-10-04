@@ -1,0 +1,167 @@
+.menu-reservation{
+    padding:20px;
+    display: flex;
+    justify-content: center;
+    font-family: "roboto";
+}
+.reser-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px;
+}
+.reservation-3{
+    min-height:70vh;
+    padding:20px ;
+    background-color: #dee4ff;
+    color: #4C5CAF;
+    opacity: 0.6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.reservation-container{
+
+    background-color: #4255a8;
+
+    border-radius: 10px;
+
+}
+.reservationkey{
+    color: white;
+}
+.searchbar1{
+    background-color: #fff;
+    color: #4C5CAF;
+    outline: none !important;
+   
+}
+#outlined-search-label{
+    color: black;
+    
+}
+.createnew:hover{
+background-color:#6a5fff !important;
+color: #ffffff!important;
+width: 200px!important;
+height: 56px!important;
+margin-left: 10px!important;
+}
+.createnew{
+    background-color:white !important;
+color: #4255a8!important;
+width: 200px!important;
+height: 56px!important;
+margin-left: 10px!important;
+}
+.inputdesign{
+    border: #4255a8 solid 2px;
+    height: 35px;
+    padding:5px 10px;
+    margin-right: 10px;
+ 
+}
+.inputdesign1{
+  margin: 0;
+  margin-right:  10px;
+}
+.reservation-hotel-container{
+    min-height:70vh;
+    padding:20px ;
+
+    color: #4C5CAF;
+    opacity: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.radiobtnwithkeys{
+    display: flex;
+    align-items: center;
+}
+.key-radio-label{
+    margin: 0;
+    padding: 0;
+}
+.groupinpiut{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+}
+.nomcli{
+    min-width: 100px;
+    width: 10vw;
+}
+.nomhotel{
+    min-width: 300px;
+    width: 30vw;
+}
+.date-ent-sort{
+    min-width: 100px;
+    width: 15vw;
+}
+.nbrnuit{
+    min-width: 100px;
+    width: 8.44vw;
+}
+.prix-dachat{
+    min-width: 100px;
+    width: 20vw;
+}
+.group-inside{
+    width: 30vw;
+}
+.selectpaiment{
+    outline: none;
+    border: #4255a8 solid 2px;
+    width: 12.5vw;
+
+}
+.btn-ce{
+    height: 35px;
+    border:none;
+    outline: none;
+    background: #4255a8;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-right:10px;
+    border-radius: 2px;
+}
+.btn-ce:hover{
+    opacity: 0.9;
+}
+.btns-res{
+    display: flex;
+    margin-top: 10px;
+}
+.disableddate{
+    border: #4255a8 solid 2px;
+    width: 41.7vw;
+}
+.reservation-hotel-container-box{
+    background-color: #dee4ff;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.alertmsgup{
+    background-color: #e24242;
+    color: white;
+    position: absolute;
+    padding: 10px 20px;
+    left: 44%;
+    bottom: 0;
+    border-radius: 2px;
+}
+.key-radio-label{
+    margin-right:10px;
+}
+.centerflex{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
